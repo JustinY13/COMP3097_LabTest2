@@ -17,6 +17,7 @@
 		68007F5E2D90544A0014B8C2 /* A2_iOS_Justin_101400171Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68007F5D2D90544A0014B8C2 /* A2_iOS_Justin_101400171Tests.swift */; };
 		68007F682D90544A0014B8C2 /* A2_iOS_Justin_101400171UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68007F672D90544A0014B8C2 /* A2_iOS_Justin_101400171UITests.swift */; };
 		68007F6A2D90544A0014B8C2 /* A2_iOS_Justin_101400171UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68007F692D90544A0014B8C2 /* A2_iOS_Justin_101400171UITestsLaunchTests.swift */; };
+		683F85962D91B92300754150 /* AddProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 683F85952D91B92300754150 /* AddProductViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		68007F632D90544A0014B8C2 /* A2_iOS_Justin_101400171UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = A2_iOS_Justin_101400171UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		68007F672D90544A0014B8C2 /* A2_iOS_Justin_101400171UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A2_iOS_Justin_101400171UITests.swift; sourceTree = "<group>"; };
 		68007F692D90544A0014B8C2 /* A2_iOS_Justin_101400171UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A2_iOS_Justin_101400171UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		683F85952D91B92300754150 /* AddProductViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddProductViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				68007F512D90544A0014B8C2 /* LaunchScreen.storyboard */,
 				68007F542D90544A0014B8C2 /* Info.plist */,
 				68007F4C2D9054490014B8C2 /* A2_iOS_Justin_101400171.xcdatamodeld */,
+				683F85952D91B92300754150 /* AddProductViewController.swift */,
 			);
 			path = A2_iOS_Justin_101400171;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			files = (
 				68007F482D9054490014B8C2 /* ViewController.swift in Sources */,
 				68007F442D9054490014B8C2 /* AppDelegate.swift in Sources */,
+				683F85962D91B92300754150 /* AddProductViewController.swift in Sources */,
 				68007F462D9054490014B8C2 /* SceneDelegate.swift in Sources */,
 				68007F4E2D9054490014B8C2 /* A2_iOS_Justin_101400171.xcdatamodeld in Sources */,
 			);
